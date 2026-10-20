@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Test cache
+.pytest_cache/
+
+# Secrets (never commit these)
+.env
+.streamlit/secrets.toml

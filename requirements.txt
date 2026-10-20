@@ -1,0 +1,6 @@
+streamlit>=1.50
+altair>=5.0
+yfinance>=0.2.54
+pandas>=2.0
+numpy>=1.26
+pytest>=8.0
